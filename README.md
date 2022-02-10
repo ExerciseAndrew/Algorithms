@@ -6,3 +6,4 @@ I want to interface my algorithms with a stack file that I made. I want this to 
 I've been trying to figure out how to work with JSON serialization/deserialization. It isn't really clicking naturally, but I am able to run my text based game using JSON to store map data and I think I can incorporate that into my work with the algorithms as I try to build test-cases for larger numbers.
 From here it seems like a pipe-dream, but I can do a lot in one day and I can spend days and days knocking my head against this if it means I'll unlock more 'secrets'. 
 
+2/10/22 - Picking this up again with some Javascript. I am pretty sure my skills are a bit stronger than they were 2 years ago, but we'll see. After reading my entry from two years ago, it looks like I've come a loooooong way.
